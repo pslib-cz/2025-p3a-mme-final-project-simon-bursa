@@ -7,7 +7,7 @@ This project aims to fundamentally speed up the setup and teardown of each round
 ### 📂 Components
 * **2x Holder:** 4 cm of depth, used to store the card holders.
 
-* **1x Holder** 3 cm of depth, used to store the cards themselves. ---⚠️ Only print if you plan to play with half the cards!
+* **1x Holder** 3 cm of depth, used to store the cards themselves. ⚠️ Only print if you plan to play with half the cards!
 
 
 * **1x Holder lid**
