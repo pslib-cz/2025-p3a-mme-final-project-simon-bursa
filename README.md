@@ -11,7 +11,7 @@ This project aims to fundamentally speed up the setup and teardown of each round
 
 * **1x Lid Knob**
 
-### Dimensions
+### 📏 Dimensions
 * 261.4 x 109 x 40 mm, will fit diagonally on Bambulab A1 or any other 3D printer.
 
 
