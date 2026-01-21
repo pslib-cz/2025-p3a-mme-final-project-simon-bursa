@@ -25,6 +25,7 @@ This project aims to fundamentally speed up the setup and teardown of each round
 * For build plate adhesion, we recommend to use Brim to prevent corners from warping.
 
 ### 🖨️ Printables page
+https://www.printables.com/model/1565128-rummikub-xl-custom-board-inlay
 
 
 
