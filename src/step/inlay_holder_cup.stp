@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('STEP AP214'),'1');
-FILE_NAME('result.stp','2026-01-20T19:50:20',(' '),(' '),'Spatial InterOp 3D',' ',' ');
+FILE_NAME('result.stp','2026-01-21T09:51:16',(' '),(' '),'Spatial InterOp 3D',' ',' ');
 FILE_SCHEMA(('automotive_design'));
 ENDSEC;
 DATA;
