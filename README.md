@@ -7,17 +7,14 @@ This project aims to fundamentally speed up the setup and teardown of each round
 ### 📂 Components
 * **2x Holder:** 4 cm of depth, used to store the card holders.
 
-* **1x Holder** 3 cm of depth, used to store the cards themselves. ⚠️ Only print if you plan to play with half the cards!
-
-
 * **1x Holder lid**
 
 * **1x Lid Knob**
 
-### 🖨️ What should I print?
-If you play will half the cards, you can print the 3 cm holder to store them without any sound.
+### Dimensions
+* 261.4 x 109 x 40 mm
+* Will fit diagonally on Bambulab A1
 
-If you prefer the original way, do NOT print the 3 cm holder and instead print 3x the 4 cm one.
 
 ### ⚙️ Print settings
 * **Material:** PLA or PETG
